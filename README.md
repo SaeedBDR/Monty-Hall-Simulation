@@ -12,9 +12,9 @@ The simulation demonstrates the classic counter-intuitive result:
 
 ## 📂 Project Structure
 
-├── main.py              # Core Monty Hall simulation logic
-├── app.py               # Streamlit UI
-└── README.md            # Project documentation
+├── main.py                     # Core Monty Hall simulation logic
+├── app.py                      # Streamlit UI
+└── README.md                   # Project documentation
 
 
 ## Features
